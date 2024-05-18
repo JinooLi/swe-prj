@@ -3366,7 +3366,7 @@
 											"top": 460,
 											"width": 154,
 											"height": 13,
-											"text": "Set-Edit Preferences"
+											"text": "Edit Preferences"
 										},
 										{
 											"_type": "LabelView",
@@ -7879,7 +7879,7 @@
 					"_parent": {
 						"$ref": "AAAAAAFF+qBWK6M3Z8Y="
 					},
-					"name": "Set-Edit Preferences"
+					"name": "Edit Preferences"
 				},
 				{
 					"_type": "UMLUseCase",
